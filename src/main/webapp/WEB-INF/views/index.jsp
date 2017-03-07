@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<a href="schedule/deleteJob">关闭定时</a>
+	<a href="schedule/deleteJob">关闭定时可以吗</a>
 </body>
 </html>
