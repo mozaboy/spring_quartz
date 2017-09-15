@@ -1,7 +1,0 @@
-com\boom\spring_quartz\web\SchedulerController.class
-com\boom\spring_quartz\App.class
-com\boom\spring_quartz\schedule\ScheduleConfiguration.class
-com\boom\spring_quartz\schedule\ScheduleService.class
-com\boom\spring_quartz\quartz\QuartzScheduleMgr.class
-com\boom\spring_quartz\schedule\ScheduleTask.class
-com\boom\spring_quartz\schedule\ScheduleTask2.class
